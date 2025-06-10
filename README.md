@@ -42,6 +42,3 @@ npm start
 Open in your browser:
 http://localhost:3000
 
- **Clone the repository**:
-
-git clone https://github.com/your-username/your-repo-name.git
